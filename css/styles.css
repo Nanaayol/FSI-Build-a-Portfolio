@@ -1,6 +1,6 @@
-h1, h2 {
+.Intro {
     text-align: center;
-    font-family: "murray hill", cursive;
+    font-family: "shathika", "glory culture", "Murray Hill", cursive;
     color: lightcyan;
     background-color: rgb(22, 193, 193);
 }
@@ -8,8 +8,13 @@ h1, h2 {
 body {
     color: rgb(22, 193, 193); 
     background-color: white;
+    font-family: Georgia; 
 }
 
 h3 {
     color: rgb(29, 66, 151)
+}
+
+.my-favorites p {
+    font-weight: bold;
 }
