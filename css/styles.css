@@ -1,6 +1,15 @@
-.nameNtitle {
+h1, h2 {
     text-align: center;
     font-family: "murray hill", cursive;
     color: silver;
+    background-color: rgb(22, 193, 193);
 }
 
+body {
+    color: rgb(22, 193, 193); 
+    background-color: silver;
+}
+
+h3 {
+    color: rgb(29, 66, 151)
+}
