@@ -14,10 +14,12 @@ body {
 }
 
 h3 {
-    color: rgb(29, 66, 151)
+    color: rgb(29, 66, 151);
+    text-align: center;
 }
 
 .my-favorites p {
     font-weight: bold;
     color: rgb(3, 27, 121);
 }
+
