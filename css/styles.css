@@ -1,6 +1,6 @@
 .Intro {
     text-align: center;
-    font-family: "Murray Hill", cursive;
+    font-family: Zapfino, cursive;
     color: lightcyan;
     background-color: rgb(22, 193, 193);
     text-shadow: 4px 4px 4px lightslategrey,
@@ -23,5 +23,11 @@ h3 {
 .my-favorites p {
     font-weight: bold;
     color: rgb(3, 27, 121);
+    text-align: center;
+    font-family: "Snell Roundhand", cursive;
 }
 
+img {
+    align-self: center;
+    border-style: groove;
+}
